@@ -77,7 +77,7 @@
 						<div class="rowtocol">
 							<div class="auth-row">
 								<div class="form-group form-group-label">
-									<label class="floating-label" for="code">邀请码(必填)</label>
+									<label class="floating-label" for="code">邀请码(必填,没有就123456)</label>
 									<input class="form-control maxwidth-auth" id="code" type="text">
 								</div>
 							</div>
